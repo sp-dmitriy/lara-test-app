@@ -2,3 +2,12 @@
 
 
 ## Тестовое задание
+
+### Install
+1. git clone ...
+2. composer install
+3. Edit .env for connect to DB
+4. php artisan migrate
+5. php artisan import:category
+6. php artisan import:relation
+7. enjoy )
